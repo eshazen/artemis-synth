@@ -16,6 +16,8 @@ There is a basic convention for digital signals on the PCB layout, which is the 
 
 ## Documentation
 
+[Recovered Documentation](docs/Recovered/README.md)
+
 [Current Documentation](http://ohm.bu.edu/cgi-bin/edf/SoundSynthesizer)
 
 ## Versioning

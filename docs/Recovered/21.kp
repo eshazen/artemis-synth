@@ -1,0 +1,47 @@
+ip: 128.197.43.82
+ts: 1374863945
+minor: 
+host: watt.bu.edu
+username: 
+revision: 21
+summary: 
+languages: 
+text: This is a project designed for easy soldering and experimentation
+	with waveform-based sound generation.
+	
+	=Rev 2 (2013)=
+	
+	* [http://ohm.bu.edu/~hazen/Synth/V2/Artemis-Parts-List.pdf Parts List]
+	* [http://ohm.bu.edu/~hazen/Synth/V2/assembly_instructions_rev.pdf Assembly Instructions]
+	* [https://github.com/cwoodall/artemis-synth GitHub] for design files.  Initial prototypes received 7/9/13; one minor layout error
+	* [https://docs.google.com/spreadsheet/ccc?key=0Ak6vWXbGTU6MdGttb0gxU3J2WWdiYmdBaWZlb3VZN0E&usp=sharing BOM] updated as of 7/5/13
+	* [http://ohm.bu.edu/~cwoodall/artemis-synth-programming.tar.gz artemis-synth-programming.tar.gz] &ndash; hex file and script for programming
+	
+	=Rev 1 (2012)=
+	==Instructions==
+	
+	* [http://ohm.bu.edu/~hazen/Synth/new_parts_list.pdf Parts List]
+	* [http://ohm.bu.edu/~hazen/Synth/assembly_instructions2.pdf Assembly Instructions] &bull; [http://ohm.bu.edu/~hazen/Synth/assembly_instructions.odt ODT] source
+	* [http://ohm.bu.edu/~hazen/Synth/Hazen_uC_synth.pdf Eric's Slides] for Monday
+	* [http://ohm.bu.edu/~cwoodall/artemis-synth-v1/UseageGuide.pdf Usage Instructions] 
+	* [http://ohm.bu.edu/~swd/javascript/sine_wave_audio_jq2.html Web Programmer for Sequencer and Harmonics]
+	* [http://ohm.bu.edu/~cwoodall/artemis-synth-v1/how_it_works.pdf Chris's Slides] for Tuesday (optional)
+	
+	==Logistics==
+	
+	* [https://docs.google.com/document/d/16SwlavPY2COz1uE0muT7t2vrbEFLWLyls8qj5mQFP_4/edit Supplies List]
+	
+	==Hardware Description==
+	
+	* ATMega328
+	* 12 buttons, with 8 arranged in a row for a one-octave keyboard
+	* 8 LEDs
+	* Serial DAC (12 bits)
+	* Audio amp w/volume control
+	* Small speaker
+	* light sensor for download from web
+	* ISP connector
+	* USBAsp connector
+	
+lastmajor: 21
+keep-ts: 1374864188
