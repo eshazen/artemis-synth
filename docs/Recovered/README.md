@@ -11,7 +11,7 @@ with waveform-based sound generation.
 * [Assembly Instructions](http://ohm.bu.edu/~hazen/Synth/V2/assembly_instructions_rev.pdf)
 * [Github](https://github.com/cwoodall/artemis-synth) for design files.  Initial prototypes received 7/9/13; one minor layout error
 * [BOM](https://docs.google.com/spreadsheet/ccc?key=0Ak6vWXbGTU6MdGttb0gxU3J2WWdiYmdBaWZlb3VZN0E&usp=sharing) updated as of 7/5/13
-* [artemis-synth-programming.tar.gz](http://ohm.bu.edu/~cwoodall/artemis-synth-programming.tar.gz) &ndash; hex file and script for programming
+* [artemis-synth-programming.tar.gz](http://ohm.bu.edu/~cwoodall/artemis/artemis-synth-programming.tar.gz) &ndash; hex file and script for programming
 	
 ## Rev 1 (2012)
 
@@ -21,7 +21,7 @@ with waveform-based sound generation.
 * [Assembly Instructions](http://ohm.bu.edu/~hazen/Synth/assembly_instructions2.pdf) 
 &bull; [ODT](http://ohm.bu.edu/~hazen/Synth/assembly_instructions.odt) source
 * [Eric's Slides](http://ohm.bu.edu/~hazen/Synth/Hazen_uC_synth.pdf) for Monday
-* [Usage Instructions](http://ohm.bu.edu/~cwoodall/artemis-synth-v1/UseageGuide.pdf)
+* [Usage Instructions](http://ohm.bu.edu/~hazen/artemis/UseageGuide.pdf)
 * [Web Programmer](http://ohm.bu.edu/~swd/javascript/sine_wave_audio_jq2.html) Web Programmer for Sequencer and Harmonics
 * [Chris' Slides](http://ohm.bu.edu/~cwoodall/artemis-synth-v1/how_it_works.pdf) for Tuesday (optional)
 	
